@@ -2,7 +2,8 @@
 
 ## 2026
 
-- [tmiix](https://github.com/nonbili/tmiix): The missing tmux GUI.
+- [Meron](https://github.com/nonbili/meron): Mail app that sparks joy. Fast/secure email client with chat and kanban view.
+- [Tmiix](https://github.com/nonbili/tmiix): Tmux and SSH session manager.
 - [Nori](https://github.com/nonbili/Nori): A beautiful bookmark manager and launcher.
 - [Sofey](https://github.com/nonbili/Sofey): Android app with soft power button, volume up/down button.
 
